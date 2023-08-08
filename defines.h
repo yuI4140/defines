@@ -26,7 +26,7 @@ typedef u8 b8;
 typedef u32 b32;
 // stirng types
 // char*
-typedef i8 *str;
+typedef char *str;
 // const char*
 typedef const str cstr;
 // void
